@@ -1,0 +1,137 @@
+body{background:#3a3d47;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+
+.upper{
+    background:#1551a1;
+    overflow: hidden;
+}
+.logo{
+
+    float: left;
+    width: 335px;
+    padding: 40px;
+}
+
+.menu{
+    float: left;
+    padding: 50px;
+}
+.options li{
+    float: left;
+    list-style: none;
+}
+.options li a{
+align-items: center;
+display: flex;
+color: white;
+padding: 20px;
+text-decoration: none;
+border: 1px solid white;
+
+}
+
+.options li a:hover{
+background: orange;
+}
+
+.armadura{
+    overflow: hidden;
+    
+}
+
+.caja{
+float: left;
+width: 380px;
+margin: 7px;
+border: 1px solid black;
+
+}
+
+.subtitle{
+  background: #1551a1;
+}
+
+.service{
+    color: white;
+    text-align: center; 
+    padding:15px 0;
+}
+
+.effect:hover{
+    opacity: 0.8;
+    cursor:pointer ;
+}
+.contenido{
+    padding: 20px;
+    text-align:justify ;
+}
+
+.button{
+    padding: 15px 20px;
+    margin:25px 125px;
+    color: white;
+    background: #1551a1;
+}
+.button:hover{
+    background: orange;
+    cursor: pointer;
+}
+.titulo{
+    text-align: center;
+    padding: 20px 0 15px 0 ;
+    font-size: 35px;
+    color: #ff7600;
+}
+
+.foot{
+    background:#062348
+    ;
+    overflow: hidden;
+
+}
+
+.left{
+    float: left;
+    width: 550px;
+    padding: 20px;
+    
+
+
+}
+
+.right{
+    float: left;
+    width: 550px;
+    padding: 20px;
+}
+
+.down{
+
+    color: white;
+    font-size: 12px;
+    padding: 10px ;
+}
+.follow_me{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+
+
